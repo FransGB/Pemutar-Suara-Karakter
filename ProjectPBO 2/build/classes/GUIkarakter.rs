@@ -1,0 +1,17 @@
+projectpbo.GUIkarakter
+projectpbo.GUIkarakter$10
+projectpbo.GUIkarakter$8
+projectpbo.GUIkarakter$11
+projectpbo.GUIkarakter$9
+projectpbo.GUIkarakter$12
+projectpbo.GUIkarakter$13
+projectpbo.GUIkarakter$14
+projectpbo.GUIkarakter$15
+projectpbo.GUIkarakter$16
+projectpbo.GUIkarakter$1
+projectpbo.GUIkarakter$2
+projectpbo.GUIkarakter$3
+projectpbo.GUIkarakter$4
+projectpbo.GUIkarakter$5
+projectpbo.GUIkarakter$6
+projectpbo.GUIkarakter$7
